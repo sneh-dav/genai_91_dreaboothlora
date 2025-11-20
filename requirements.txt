@@ -1,0 +1,16 @@
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.21.0
+transformers>=4.30.0
+accelerate>=0.20.0
+pillow>=9.5.0
+numpy>=1.24.0
+tqdm>=4.65.0
+open-clip-torch>=2.20.0
+ftfy>=6.1.1
+safetensors>=0.3.1
+xformers>=0.0.20
+bitsandbytes>=0.41.0
+pandas>=2.0.0
+clip-by-openai
+
